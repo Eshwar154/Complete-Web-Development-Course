@@ -64,3 +64,11 @@ button:hover {
 .hidden {
   display: none;
 }
+
+.selected{
+  background-color: #3700b3;
+}
+
+.unselected{
+  background-color: gray;
+}
